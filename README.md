@@ -1,3 +1,2 @@
 # SpaceGame
- Asteroid game.
- Made with C++ and SFML
+My projekt for my object oriented programming course in C++.
